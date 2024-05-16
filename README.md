@@ -13,6 +13,7 @@ To use the Scientific Calculator, follow these steps:
 - Download the source code of the Scientific Calculator.
 - Open a terminal or command prompt.
 - Navigate to the directory where the source code is located.
+- Install tkinter by running this in the terminal: python -m tkinter and import tkinter.messagebox
 - Run the command: python sci_cal.py
 
 Usage:
