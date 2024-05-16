@@ -35,9 +35,9 @@ Additional Features:
 - Offers a user-friendly GUI with clear buttons and a display area for input and output.
 
 Contributors:
-ALivio
-Berbosidad
-Montibon
-Nolan
-Sanchez 
-Saycon
+- ALivio
+- Berbosidad
+- Montibon
+- Nolan
+- Sanchez 
+- Saycon
