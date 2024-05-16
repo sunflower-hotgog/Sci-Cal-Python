@@ -3,9 +3,6 @@
 Purpose:
 The Scientific Calculator is a graphical user interface (GUI) application built in Python using the Tkinter library. Its purpose is to provide users with a tool for performing both basic arithmetic operations and advanced scientific calculations conveniently.
 
-Dependencies:
-The Scientific Calculator application requires Python 3.x and the Tkinter library, which is included in Python's standard library, so no additional dependencies need to be installed.
-
 Installation:
 To use the Scientific Calculator, follow these steps:
 
@@ -15,6 +12,9 @@ To use the Scientific Calculator, follow these steps:
 - Navigate to the directory where the source code is located.
 - Install tkinter by running this in the terminal: python -m tkinter and import tkinter.messagebox
 - Run the command: python sci_cal.py
+
+Dependencies:
+The Scientific Calculator application requires Python 3.x and the Tkinter library, which is included in Python's standard library, so no additional dependencies need to be installed.
 
 Usage:
 
